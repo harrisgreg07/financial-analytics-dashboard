@@ -49,12 +49,6 @@ Reflex web UI  ──▶  FastAPI compute API  ──▶  EOD Historical Data
 
 `Reflex` · `FastAPI` · `EOD Historical Data` · `Redis` · `scikit-learn` · `Recharts`
 
-## Why it's closed-source
-
-The valuation formulas (tuned on real data), the compute services, and the data
-integration are the product's edge. Generic building blocks and writeups are
-shared separately.
-
 ---
 
 © Greg Harris · documentation and media only. Not open-source software.
