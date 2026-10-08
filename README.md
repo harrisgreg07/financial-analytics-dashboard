@@ -49,6 +49,16 @@ Reflex web UI  ──▶  FastAPI compute API  ──▶  EOD Historical Data
 
 `Reflex` · `FastAPI` · `EOD Historical Data` · `Redis` · `scikit-learn` · `Recharts`
 
+## Disclaimer
+
+This page describes a personal research project and is for educational and
+illustrative purposes only. It is **not investment advice**, and nothing here is
+an offer, solicitation, or recommendation to buy or sell any security. Any
+figures, valuations, or analytics shown are illustrative, depend on model
+assumptions and third-party data, and **do not predict future performance**.
+Investing carries substantial risk of loss. Consult a qualified financial
+professional before making investment decisions.
+
 ---
 
 © Greg Harris · documentation and media only. Not open-source software.
